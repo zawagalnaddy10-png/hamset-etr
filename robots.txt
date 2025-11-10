@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hamset-etr.pages.dev/sitemap.xml
